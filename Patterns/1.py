@@ -1,6 +1,7 @@
 '''
 
 Output:
+-------
 
 Enter value:7
 * 
