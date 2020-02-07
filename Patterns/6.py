@@ -14,7 +14,6 @@ Enter value:5
       * * 
         * 
 
-
 '''
 
 n = int(input('Enter value:'))
